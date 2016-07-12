@@ -2,21 +2,13 @@
 Fast Tree Visitor
 
 CS542 Design Patterns
-Spring 2015
-PROJECT 4
 
-Due Date: Wednesday, March 22, 2015
-Submission Date: Wednesday, March 22, 2015
 Author(s): Niraj Kadu
 e-mail(s): nkadu1@binghamton.edu
 
 PURPOSE:
 
 Design a simple taskmanager code in Java
-
-PERCENT COMPLETE:
-
-I believe I have completed 100% of the project.
 
 FILES:
 
