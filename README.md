@@ -1,7 +1,6 @@
 # wordCount
 Fast Tree Visitor
 
-CS542 Design Patterns
 
 Author(s): Niraj Kadu
 e-mail(s): nkadu1@binghamton.edu
